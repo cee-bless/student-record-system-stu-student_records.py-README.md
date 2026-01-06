@@ -1,0 +1,2 @@
+# student-record-system-stu-student_records.py-README.md
+#Student Record System :students= []def add student();name = input("Enter student name:") age = int(input("Enter age:")) score = float(input("Enter score: "passed = score >= 50  student ={"name": name,"age": age,"score": score,"passed": passed} students.append(student)  print("Student added successfully!\n")  def view_students(): {print} white 
